@@ -1,4 +1,5 @@
 <?php
+DEFINE('SC_VERSION', 'SmallContent ALPHA 0.1');
 DEFINE('SC_DB_HOST', 'localhost');
 DEFINE('SC_DB_USER', 'root');
 DEFINE('SC_DB_PASS', '');
